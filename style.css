@@ -1,0 +1,26 @@
+#container {
+    max-width: 500px;
+    background-color: #f0f0f0;
+    padding: 10px;
+    min-height: 300px;
+  
+  }
+  
+  span {
+    font-size: 1.2em;
+  }
+  
+  .letter-button {
+    width: 68px;
+    height: 50px;
+    font-size: 1.5em;
+    border-radius: 10px;
+    background-color: #555555;
+    color: white;
+    margin-top: 10px;
+    cursor: pointer;
+  }
+  
+  .letter-button:hover {
+      background-color: #383838;
+  }
